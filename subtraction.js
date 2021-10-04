@@ -1,5 +1,5 @@
 // Simple Substraction Function in Javascript
-function sub(a, b, c) {
-    return a-b-c
+function sub(a) {
+    return a-b
     }
-    console.log(sub(6, 2, 1))
+    console.log(sub(6))
